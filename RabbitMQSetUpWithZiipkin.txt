@@ -1,0 +1,4 @@
+fire below command one after other:
+
+1) set RABBIT_URI=amqp://localhost
+2) java -jar zipkin.jar
